@@ -1,0 +1,20 @@
+{
+    "faqs": [
+        {
+            "question": "What are your store hours?",
+            "answer": "Our store is open Monday to Saturday from 10 AM to 8 PM, and Sunday from 11 AM to 6 PM."
+        },
+        {
+            "question": "Do you offer warranty on phones?",
+            "answer": "Yes, all our phones come with a standard 1-year manufacturer warranty. Extended warranty options are available."
+        },
+        {
+            "question": "What payment methods do you accept?",
+            "answer": "We accept cash, all major credit cards, debit cards, and digital payments including PayPal."
+        },
+        {
+            "question": "Do you offer delivery?",
+            "answer": "Yes, we offer free delivery on orders above $500. Standard delivery charges apply for other orders."
+        }
+    ]
+} 
