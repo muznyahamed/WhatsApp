@@ -1,0 +1,195 @@
+{
+    "phones": [
+        {
+            "id": "iphone15pro",
+            "brand": "Apple",
+            "model": "iPhone 15 Pro",
+            "specs": {
+                "screen": "6.1-inch Super Retina XDR",
+                "processor": "A17 Pro chip",
+                "storage": ["128GB", "256GB", "512GB", "1TB"],
+                "colors": ["Natural Titanium", "Blue Titanium", "White Titanium", "Black Titanium"],
+                "camera": "48MP main camera"
+            },
+            "price": 999,
+            "stock": 50,
+            "description": "The latest iPhone featuring groundbreaking technology and premium design."
+        },
+        {
+            "id": "iphone15promax",
+            "brand": "Apple",
+            "model": "iPhone 15 Pro Max",
+            "specs": {
+                "screen": "6.7-inch Super Retina XDR",
+                "processor": "A17 Pro chip",
+                "storage": ["256GB", "512GB", "1TB"],
+                "colors": ["Natural Titanium", "Blue Titanium", "White Titanium", "Black Titanium"],
+                "camera": "48MP main camera with improved telephoto"
+            },
+            "price": 1199,
+            "stock": 35,
+            "description": "The largest iPhone with the most advanced camera system and longest battery life."
+        },
+        {
+            "id": "iphone15",
+            "brand": "Apple",
+            "model": "iPhone 15",
+            "specs": {
+                "screen": "6.1-inch Super Retina XDR",
+                "processor": "A16 Bionic chip",
+                "storage": ["128GB", "256GB", "512GB"],
+                "colors": ["Pink", "Yellow", "Green", "Blue", "Black"],
+                "camera": "48MP main camera"
+            },
+            "price": 799,
+            "stock": 65,
+            "description": "Featuring the Dynamic Island, a 48MP camera, and USB-C connector."
+        },
+        {
+            "id": "samsungs23ultra",
+            "brand": "Samsung",
+            "model": "Galaxy S23 Ultra",
+            "specs": {
+                "screen": "6.8-inch Dynamic AMOLED 2X",
+                "processor": "Snapdragon 8 Gen 2",
+                "storage": ["256GB", "512GB", "1TB"],
+                "colors": ["Phantom Black", "Green", "Lavender", "Cream"],
+                "camera": "200MP main camera"
+            },
+            "price": 1199,
+            "stock": 40,
+            "description": "Samsung's flagship phone with built-in S Pen and extraordinary camera capabilities."
+        },
+        {
+            "id": "samsungs23",
+            "brand": "Samsung",
+            "model": "Galaxy S23",
+            "specs": {
+                "screen": "6.1-inch Dynamic AMOLED 2X",
+                "processor": "Snapdragon 8 Gen 2",
+                "storage": ["128GB", "256GB"],
+                "colors": ["Phantom Black", "Green", "Lavender", "Cream"],
+                "camera": "50MP main camera"
+            },
+            "price": 799,
+            "stock": 55,
+            "description": "Compact flagship phone with premium features and exceptional camera."
+        },
+        {
+            "id": "samsungzfold5",
+            "brand": "Samsung",
+            "model": "Galaxy Z Fold 5",
+            "specs": {
+                "screen": "7.6-inch foldable Dynamic AMOLED 2X",
+                "processor": "Snapdragon 8 Gen 2",
+                "storage": ["256GB", "512GB", "1TB"],
+                "colors": ["Icy Blue", "Phantom Black", "Cream"],
+                "camera": "50MP main camera"
+            },
+            "price": 1799,
+            "stock": 25,
+            "description": "Foldable smartphone with tablet-like experience when unfolded."
+        }
+    ],
+    "accessories": [
+        {
+            "id": "case001",
+            "category": "Phone Cases",
+            "name": "Premium Protective Case",
+            "compatibility": ["iPhone 15 Pro", "iPhone 15"],
+            "price": 29.99,
+            "stock": 100,
+            "description": "Durable protection with sleek design"
+        },
+        {
+            "id": "case002",
+            "category": "Phone Cases",
+            "name": "Clear MagSafe Case",
+            "compatibility": ["iPhone 15 Pro", "iPhone 15 Pro Max"],
+            "price": 49.99,
+            "stock": 75,
+            "description": "Crystal clear case with MagSafe compatibility"
+        },
+        {
+            "id": "case003",
+            "category": "Phone Cases",
+            "name": "Samsung Rugged Case",
+            "compatibility": ["Galaxy S23 Ultra", "Galaxy S23"],
+            "price": 39.99,
+            "stock": 60,
+            "description": "Military-grade protection for Samsung devices"
+        },
+        {
+            "id": "charger001",
+            "category": "Chargers",
+            "name": "Fast Wireless Charger",
+            "compatibility": "Universal",
+            "price": 39.99,
+            "stock": 75,
+            "description": "15W fast wireless charging pad"
+        },
+        {
+            "id": "charger002",
+            "category": "Chargers",
+            "name": "65W GaN Charger",
+            "compatibility": "Universal USB-C",
+            "price": 49.99,
+            "stock": 50,
+            "description": "Compact fast charger for phones and laptops"
+        },
+        {
+            "id": "charger003",
+            "category": "Chargers",
+            "name": "MagSafe Charger",
+            "compatibility": ["iPhone 15 Series", "iPhone 14 Series"],
+            "price": 39.99,
+            "stock": 60,
+            "description": "Official Apple MagSafe wireless charger"
+        },
+        {
+            "id": "headphones001",
+            "category": "Audio",
+            "name": "Wireless Earbuds",
+            "compatibility": "Universal Bluetooth",
+            "price": 129.99,
+            "stock": 45,
+            "description": "True wireless earbuds with active noise cancellation"
+        },
+        {
+            "id": "headphones002",
+            "category": "Audio",
+            "name": "Over-Ear Headphones",
+            "compatibility": "Universal Bluetooth",
+            "price": 249.99,
+            "stock": 30,
+            "description": "Premium over-ear headphones with studio-quality sound"
+        },
+        {
+            "id": "powerbank001",
+            "category": "Power",
+            "name": "20000mAh Power Bank",
+            "compatibility": "Universal",
+            "price": 59.99,
+            "stock": 80,
+            "description": "High-capacity power bank with USB-C Power Delivery"
+        },
+        {
+            "id": "screenprotector001",
+            "category": "Screen Protection",
+            "name": "Tempered Glass Screen Protector",
+            "compatibility": ["iPhone 15 Pro", "iPhone 15"],
+            "price": 19.99,
+            "stock": 120,
+            "description": "9H hardness tempered glass with oleophobic coating"
+        },
+        {
+            "id": "screenprotector002",
+            "category": "Screen Protection",
+            "name": "Samsung Ultra Screen Protector",
+            "compatibility": ["Galaxy S23 Ultra"],
+            "price": 24.99,
+            "stock": 90,
+            "description": "S Pen compatible screen protector with anti-fingerprint coating"
+        }
+    ]
+} 
